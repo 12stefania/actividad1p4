@@ -1,0 +1,64 @@
+.hijo1{
+	position: absolute;
+	border: solid black 4px;
+	font-family:farte ;
+	top: 1%;
+	left: 1%;
+	width: 14%;
+	padding-left: 3%;
+}
+
+.hijo2{
+	position: absolute;
+	border: solid black 4px;
+	font-family:farte ;
+	top: 1%;
+	left: 1%;
+	width: 14%;
+	padding-left: 3%;
+}
+
+.hijo3{
+	position: absolute;
+	border: solid black 4px;
+	font-family:farte ;
+	top: 1%;
+	left: 1%;
+	width: 14%;
+	padding-left: 3%;
+}
+
+.hijo4{
+	position: absolute;
+	border: solid black 4px;
+	font-family:farte ;
+	top: 1%;
+	left: 1%;
+	width: 14%;
+	padding-left: 3%;
+}
+
+.hijo1:active{
+	background: yellow;
+	display: block;
+	color: black;
+
+}
+.hijo2:active{
+	background: yellow;
+	display: block;
+	color: black;
+
+}
+.hijo3:active{
+	background: yellow;
+	display: block;
+	color: black;
+
+}
+.hijo4:active{
+	background: yellow;
+	display: block;
+	color: black;
+
+}
